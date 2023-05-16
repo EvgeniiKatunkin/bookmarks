@@ -1,2 +1,2 @@
-# Django website for a blog
-Django website for a blog
+# Django Humble Social Network
+Django Humble Social Network
